@@ -1,4 +1,4 @@
-# LangChain for LLM Application Development Coursera Project (DeepLearning.AI course)
+# LangChain for LLM Application Development Coursera Project (DeepLearning.AI)
 
 This project covers essential skills for expanding the use cases and capabilities of language models in application development using the LangChain framework.
 
